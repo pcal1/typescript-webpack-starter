@@ -1,2 +1,2 @@
 # typescript-webpack-starter
-starter project with TS and WebPack
+* starter project with TS and WebPack
